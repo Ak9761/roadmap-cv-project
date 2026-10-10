@@ -4,7 +4,7 @@ A simple, responsive single-page CV built with HTML and CSS to showcase my skill
 
 ## 🚀 Live Demo
 
-[View My CV](https://yourdomain.com/)
+[View My CV]([https://yourdomain.com/](https://ak9761.github.io/roadmap-cv-project/))
 
 ## 👨‍💻 About Me
 
